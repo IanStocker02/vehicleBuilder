@@ -1,6 +1,6 @@
 # VehicleBuilder
 
-[![Watch the video](https://youtu.be/5YSCd7cyjns))
+[Watch the tutorial video on YouTube](https://youtu.be/5YSCd7cyjns)
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
